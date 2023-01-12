@@ -3,7 +3,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Введите N: ");
+        Console.WriteLine("Enter N: ");
         string n = Console.ReadLine();
         int n2 = Convert.ToInt32(n);
 
